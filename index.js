@@ -1,7 +1,7 @@
 /*!
- * kind-of-extra <https://github.com/tunnckoCore/kind-of-extra>
+ * charlike.online <https://github.com/tunnckoCore/charlike.online>
  *
- * Copyright (c) Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)
+ * Copyright (c) Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)
  * Released under the MIT license.
  */
 

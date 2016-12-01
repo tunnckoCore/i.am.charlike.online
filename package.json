@@ -1,8 +1,8 @@
 {
-  "name": "kind-of-extra",
+  "name": "charlike.online",
   "version": "0.1.0",
-  "description": "wip",
-  "repository": "tunnckoCore/kind-of-extra",
+  "description": "Place for my thoughts, myself and another web tech things",
+  "repository": "tunnckoCore/charlike.online",
   "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",
   "precommit.silent": true,
   "main": "index.js",
